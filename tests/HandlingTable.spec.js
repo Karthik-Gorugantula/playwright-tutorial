@@ -58,10 +58,10 @@ test("Handling Tables in Playwright", async ({ page }) => {
   // 5) Implement the requirement 4 for multiple pages due to pagination (we need to repeat for all pages)
 
   // step #1: count all the pages in the pagination
-
   const pages = await page.locator(".pagination li a");
   console.log("Number of pages in the table: ", await pages.count());
 
+  // step #2: repeat scenario #4 in for each page in the pagination
   for (let i = 0; i < (await pages.count()) - 1; ++i) {
     if (i > 0) await pages.nth(i).click();
 
