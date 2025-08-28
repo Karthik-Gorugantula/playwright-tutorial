@@ -1,0 +1,13 @@
+Functions
+
+add()
+setBounds()  - for position
+setSize()    - setting frame size
+setLayout()  - layout management
+setVisible() - setting visibility of the frame
+setTitle()   - setting title of frame
+
+creating button
+----------------
+Button b = new Button("title of button");
+

@@ -1,0 +1,38 @@
+Reading Other Solutions
+-----------------------
+
+Reading and understanding solutions to coding problems, especially in Data Structures and Algorithms (DSA), can take anywhere from 15-30 minutes to a few hours, depending on the complexity of the problem and the solution, as well as your current understanding of the concepts. 
+Here's a more detailed breakdown:
+
+Factors Affecting Time:
+
+1. Problem Complexity:
+Easier problems with straightforward solutions will take less time to understand, while complex problems with intricate algorithms may require more time and effort.
+
+2.Your Skill Level:
+If you're new to DSA, understanding someone else's solution will take longer than if you're already familiar with the concepts and have practiced similar problems.
+
+3. Solution Clarity:
+A well-written, commented solution will be easier and faster to understand than a poorly written or cryptic solution.
+
+4. Your Learning Style:
+Some people learn best by reading, while others prefer to watch videos or work through examples step-by-step.
+
+5. Solution Type:
+If you are just trying to understand the logic, it might take less time than if you are trying to implement the solution yourself. 
+
+How to Approach Reading Solutions:
+1. Attempt to Solve First:
+Before looking at solutions, spend some time trying to solve the problem yourself. This will help you understand the problem better and identify areas where you're struggling. 
+
+2. Read Carefully:
+Once you've attempted the problem, read the solution carefully, paying attention to the logic and the code. 
+
+3. Ask Questions:
+If you don't understand something, don't hesitate to ask for clarification or explanation. 
+
+4. Practice:
+Try to solve similar problems on your own to reinforce what you've learned. 
+
+5. Don't Get Discouraged:
+It's okay if you don't understand a solution right away. Keep practicing and you'll eventually get better at reading and understanding solutions. 
